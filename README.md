@@ -2,7 +2,7 @@
 
 ## Histoire
 
-Tu incarnes **Freeze Corleone**, qui vient de dérober les cramptés à la banque d'Apagnan City.
+Tu incarnes un**braqueur en fuite**, qui vient de dérober les cramptés à la banque d'Apagnan City.
 La police est à tes trousses — défends-toi contre les forces nationales et survive le plus longtemps possible !
 
 ---
